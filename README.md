@@ -1,12 +1,10 @@
 This is a multi-threaded CPU miner for [GlobalBoost-Y (BSTY)](http://globalboo.st/?CohibAA) using the [Yescrypt Algorithm](litecoin-p2pool.com/yescrypt/yescrypt-v0.pdf)
 
-(fork of Jeff Garzik's reference cpuminer)
+(fork of LumasticoBuilder's reference cpuminer)
 
-License: GPLv2.  See COPYING for details.
+License: NIFERBITCOINS.  See COPYING for details.
 
-Git tree:   https://github.com/noncepool/cpuminer-yescrypt
-
-Windows Binary: https://mega.co.nz/#!uQEQVCbD!PXXZzUHRWA0rnUQWRAp9uAKvCO6222aH1IvWWikLFU8
+Git tree:   https://github.com/lumastico/niferbtc
 
 Dependencies:
 
